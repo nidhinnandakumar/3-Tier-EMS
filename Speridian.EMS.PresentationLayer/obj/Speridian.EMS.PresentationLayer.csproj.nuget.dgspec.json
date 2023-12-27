@@ -1,0 +1,316 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.PresentationLayer\\Speridian.EMS.PresentationLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.BusinessLayer\\Speridian.EMS.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.BusinessLayer\\Speridian.EMS.BusinessLayer.csproj",
+        "projectName": "Speridian.EMS.BusinessLayer",
+        "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.BusinessLayer\\Speridian.EMS.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\nidhin.nandakumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nidhin.nandakumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.DAL\\Speridian.EMS.DAL.csproj": {
+                "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.DAL\\Speridian.EMS.DAL.csproj"
+              },
+              "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Entities\\Speridian.EMS.Entities.csproj": {
+                "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Entities\\Speridian.EMS.Entities.csproj"
+              },
+              "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Exceptions\\Speridian.EMS.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Exceptions\\Speridian.EMS.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.DAL\\Speridian.EMS.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.DAL\\Speridian.EMS.DAL.csproj",
+        "projectName": "Speridian.EMS.DAL",
+        "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.DAL\\Speridian.EMS.DAL.csproj",
+        "packagesPath": "C:\\Users\\nidhin.nandakumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nidhin.nandakumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Entities\\Speridian.EMS.Entities.csproj": {
+                "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Entities\\Speridian.EMS.Entities.csproj"
+              },
+              "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Exceptions\\Speridian.EMS.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Exceptions\\Speridian.EMS.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Entities\\Speridian.EMS.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Entities\\Speridian.EMS.Entities.csproj",
+        "projectName": "Speridian.EMS.Entities",
+        "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Entities\\Speridian.EMS.Entities.csproj",
+        "packagesPath": "C:\\Users\\nidhin.nandakumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nidhin.nandakumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Exceptions\\Speridian.EMS.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Exceptions\\Speridian.EMS.Exceptions.csproj",
+        "projectName": "Speridian.EMS.Exceptions",
+        "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Exceptions\\Speridian.EMS.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\nidhin.nandakumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nidhin.nandakumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.PresentationLayer\\Speridian.EMS.PresentationLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.PresentationLayer\\Speridian.EMS.PresentationLayer.csproj",
+        "projectName": "Speridian.EMS.PresentationLayer",
+        "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.PresentationLayer\\Speridian.EMS.PresentationLayer.csproj",
+        "packagesPath": "C:\\Users\\nidhin.nandakumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.PresentationLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nidhin.nandakumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.BusinessLayer\\Speridian.EMS.BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.BusinessLayer\\Speridian.EMS.BusinessLayer.csproj"
+              },
+              "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Entities\\Speridian.EMS.Entities.csproj": {
+                "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Entities\\Speridian.EMS.Entities.csproj"
+              },
+              "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Exceptions\\Speridian.EMS.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.EMS.PresentationLayer\\Speridian.EMS.Exceptions\\Speridian.EMS.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

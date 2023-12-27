@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speridian.EMS.PresentationLayer", "Speridian.EMS.PresentationLayer\Speridian.EMS.PresentationLayer.csproj", "{A12506EA-CC53-4300-BED1-EE6FCE00A90A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speridian.EMS.BusinessLayer", "Speridian.EMS.BusinessLayer\Speridian.EMS.BusinessLayer.csproj", "{8B2982CC-389C-4881-97C1-B3A1DC75C27A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speridian.EMS.DAL", "Speridian.EMS.DAL\Speridian.EMS.DAL.csproj", "{00C68EEC-F269-4E30-BBAE-EF3412FF8538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speridian.EMS.Entities", "Speridian.EMS.Entities\Speridian.EMS.Entities.csproj", "{A763D69C-E9FC-4B1F-B6F2-08B9DD9175BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speridian.EMS.Exceptions", "Speridian.EMS.Exceptions\Speridian.EMS.Exceptions.csproj", "{E2FDDF17-C439-4CA0-A867-9EB7BC253579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A12506EA-CC53-4300-BED1-EE6FCE00A90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12506EA-CC53-4300-BED1-EE6FCE00A90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12506EA-CC53-4300-BED1-EE6FCE00A90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12506EA-CC53-4300-BED1-EE6FCE00A90A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2982CC-389C-4881-97C1-B3A1DC75C27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2982CC-389C-4881-97C1-B3A1DC75C27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2982CC-389C-4881-97C1-B3A1DC75C27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2982CC-389C-4881-97C1-B3A1DC75C27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C68EEC-F269-4E30-BBAE-EF3412FF8538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C68EEC-F269-4E30-BBAE-EF3412FF8538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C68EEC-F269-4E30-BBAE-EF3412FF8538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C68EEC-F269-4E30-BBAE-EF3412FF8538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A763D69C-E9FC-4B1F-B6F2-08B9DD9175BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A763D69C-E9FC-4B1F-B6F2-08B9DD9175BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A763D69C-E9FC-4B1F-B6F2-08B9DD9175BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A763D69C-E9FC-4B1F-B6F2-08B9DD9175BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FDDF17-C439-4CA0-A867-9EB7BC253579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FDDF17-C439-4CA0-A867-9EB7BC253579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FDDF17-C439-4CA0-A867-9EB7BC253579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FDDF17-C439-4CA0-A867-9EB7BC253579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3153D52-BA1F-4A66-B464-E4FF15AD63A5}
+	EndGlobalSection
+EndGlobal

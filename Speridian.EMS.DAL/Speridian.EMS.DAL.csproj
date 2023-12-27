@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Speridian.EMS.Entities\Speridian.EMS.Entities.csproj" />
+    <ProjectReference Include="..\Speridian.EMS.Exceptions\Speridian.EMS.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>

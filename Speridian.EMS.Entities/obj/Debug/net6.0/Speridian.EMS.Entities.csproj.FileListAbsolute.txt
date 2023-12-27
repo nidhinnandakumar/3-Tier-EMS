@@ -1,0 +1,12 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Entities\bin\Debug\net6.0\Speridian.EMS.Entities.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Entities\bin\Debug\net6.0\Speridian.EMS.Entities.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Entities\bin\Debug\net6.0\Speridian.EMS.Entities.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Entities\obj\Debug\net6.0\Speridian.EMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Entities\obj\Debug\net6.0\Speridian.EMS.Entities.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Entities\obj\Debug\net6.0\Speridian.EMS.Entities.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Entities\obj\Debug\net6.0\Speridian.EMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Entities\obj\Debug\net6.0\Speridian.EMS.Entities.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Entities\obj\Debug\net6.0\refint\Speridian.EMS.Entities.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Entities\obj\Debug\net6.0\Speridian.EMS.Entities.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Entities\obj\Debug\net6.0\ref\Speridian.EMS.Entities.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Entities\obj\Debug\net6.0\Speridian.EMS.Entities.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\bin\Debug\net6.0\Speridian.EMS.DAL.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\bin\Debug\net6.0\Speridian.EMS.DAL.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\bin\Debug\net6.0\Speridian.EMS.DAL.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\bin\Debug\net6.0\Speridian.EMS.Entities.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\bin\Debug\net6.0\Speridian.EMS.Exceptions.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\bin\Debug\net6.0\Speridian.EMS.Entities.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\bin\Debug\net6.0\Speridian.EMS.Exceptions.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\obj\Debug\net6.0\Speridian.EMS.DAL.csproj.AssemblyReference.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\obj\Debug\net6.0\Speridian.EMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\obj\Debug\net6.0\Speridian.EMS.DAL.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\obj\Debug\net6.0\Speridian.EMS.DAL.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\obj\Debug\net6.0\Speridian.EMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\obj\Debug\net6.0\Speridian.EMS.DAL.csproj.CopyComplete
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\obj\Debug\net6.0\Speridian.EMS.DAL.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\obj\Debug\net6.0\refint\Speridian.EMS.DAL.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\obj\Debug\net6.0\Speridian.EMS.DAL.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.DAL\obj\Debug\net6.0\ref\Speridian.EMS.DAL.dll

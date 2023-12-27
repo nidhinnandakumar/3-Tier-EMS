@@ -1,0 +1,11 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Exceptions\bin\Debug\net6.0\Speridian.EMS.Exceptions.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Exceptions\bin\Debug\net6.0\Speridian.EMS.Exceptions.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Exceptions\bin\Debug\net6.0\Speridian.EMS.Exceptions.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Exceptions\obj\Debug\net6.0\Speridian.EMS.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Exceptions\obj\Debug\net6.0\Speridian.EMS.Exceptions.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Exceptions\obj\Debug\net6.0\Speridian.EMS.Exceptions.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Exceptions\obj\Debug\net6.0\Speridian.EMS.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Exceptions\obj\Debug\net6.0\Speridian.EMS.Exceptions.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Exceptions\obj\Debug\net6.0\refint\Speridian.EMS.Exceptions.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Exceptions\obj\Debug\net6.0\Speridian.EMS.Exceptions.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.EMS.PresentationLayer\Speridian.EMS.Exceptions\obj\Debug\net6.0\ref\Speridian.EMS.Exceptions.dll
